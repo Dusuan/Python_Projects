@@ -23,7 +23,7 @@ while(a!=0):
             #salir
 
             
-            sino = input("Si deseas salir, presiona ok: ")
+            sino = input("Si deseas salir, presiona ok, si no, enter: ")
             if sino == 'ok':
                  a = 0
 
